@@ -3,7 +3,7 @@
 namespace App\Tests;
 
 use PHPUnit\Framework\TestCase;
-use App\Paypal;
+use App\PayPal;
 use App\CreditCard;
 use App\PayPalAdapter;
 use App\CreditCardAdapter;
